@@ -88,19 +88,19 @@
     <Compile Include="Assets\Scripts\NetPlayer.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Android.Editor">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.Analytics.Android.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.Analytics.Android.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.0b8/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -298,19 +298,19 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.0b8/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Android/Unity.Analytics.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.analytics@3.0.9/Android/Unity.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing">
-      <HintPath>C:/Users/Kenny/Desktop/Kenny_RUDP_Server/Unity Server LiteNetLib 0.8_last_06-11-2018_Net_CoreSDK 2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.purchasing@2.0.1/UnityEngine.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Kenny/Desktop/Github_Depots/Unity LiteNetLib 8 06-11-2018 NetCoreSDK2.1.403/Kenny_Game_Client/Library/PackageCache/com.unity.purchasing@2.0.1/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.0b8/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
